@@ -1,1 +1,6 @@
-# To-Do-List-App
+# Run the code
+
+```
+npm install
+npm start
+```
